@@ -1,0 +1,4 @@
+* Functions - are reusable blocks of code
+* Parameters - variables are place holders found in the function definition
+* arguements - values that are passed into a function
+* if statements - used for comparing values
